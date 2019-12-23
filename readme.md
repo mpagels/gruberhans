@@ -12,6 +12,7 @@ Saw this John-McClain-in-a-tin-can theme on reddit and decided to copy this and 
 If you push the red button, it will play a quote from Die Hard 1 or Die Hard 2. 
 The default language is german, but i build a little button underneath the box, to change it to english.
 
+# Pictures
 Front:
 ![Front](https://i.imgur.com/7LEUSG6.jpg)
 
