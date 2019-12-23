@@ -5,7 +5,7 @@ Final product ;-) (Click on picture for Youtube Link):
 [![Youtube Link](https://i9.ytimg.com/vi/mD7L4wmEnmU/mq3.jpg?sqp=CIqhhPAF&rs=AOn4CLAKNfx0Xu3YKDOb_2rSLSjGlCXdqA)](https://youtu.be/mD7L4wmEnmU)
 
 
-Saw this John-McClain-in-a-tin-can theme on reddit and decided to copy this and made an little python christmas project for myself.
+Saw this John-McClane-in-a-tin-can theme on reddit and decided to copy this and made an little python christmas project for myself.
 
 # How it works
 
