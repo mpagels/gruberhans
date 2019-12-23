@@ -1,10 +1,6 @@
 # gruberhans.py
 
-Final product ;-) (Click on picture for Youtube Link):
-<p align="center">
-  <a href="https://youtu.be/mD7L4wmEnmU> img src="https://i9.ytimg.com/vi/mD7L4wmEnmU/mq3.jpg?sqp=CIqhhPAF&rs=AOn4CLAKNfx0Xu3YKDOb_2rSLSjGlCXdqA" </a>
-</p>
-                                                                                                                                                  
+Final product ;-) (Click on picture for Youtube Link):                                                                                                                                                 
 [![Youtube Link](https://i9.ytimg.com/vi/mD7L4wmEnmU/mq3.jpg?sqp=CIqhhPAF&rs=AOn4CLAKNfx0Xu3YKDOb_2rSLSjGlCXdqA)](https://youtu.be/mD7L4wmEnmU)
 
 
