@@ -32,7 +32,7 @@ def change_lang_path(language):
 def change_lang():
     
     '''Function to change the language after pressing button
-    connected to PIN 2. (German to englisch and back)'''
+    connected to PIN 2. (German to english and back)'''
 
     global language
     global path
